@@ -6,3 +6,6 @@ This is a home page for personal use. Features:
 if you do not clean the web storage of your browser.
 
 All images are found on http://www.lofter.com/. You can replace them with other images that you like.
+
+Preview:
+ home-page/screenshot.png 
