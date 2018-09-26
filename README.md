@@ -9,7 +9,7 @@ All images are found on http://www.lofter.com/. You can replace them with other 
 
 Preview:
  home-page/screenshot.png 
-
+<img src='https://github.com/esperandote/home-page/blob/master/screenshot.png' />
 
 供个人浏览器主页使用:
 1. 提供常用网站链接,即网址导航功能.可通过编辑index.html修改网站列表.
