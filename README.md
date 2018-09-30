@@ -1,4 +1,4 @@
-# home-page 简单网址导航
+# website-navigation 简单网址导航
 This is a home page for personal use. Features:
 1. Links to websites frequently used. You can change the links by editing index.html. I just give an example.
 2. Baidu search and Google search in the page.
